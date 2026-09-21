@@ -1,0 +1,14 @@
+# Projeto Final - Laboratório de Banco de Dados (GPE17M40083)
+
+## Visão Geral
+Este repositório contém a Etapa 1 do projeto da disciplina, contemplando a modelação conceptual, lógica e a implementação física de uma base de dados para o domínio de uma Escola de Idiomas. O projeto foi desenhado para suportar operações transacionais e rastreabilidade temporal.
+
+## Tema Escolhido: Escola de Idiomas
+Sistema focado na gestão académica, estruturando o vínculo de professores a múltiplos idiomas, a organização de turmas por níveis (com pré-requisitos) e salas físicas, e o rastreio rigoroso das matrículas dos alunos através de um histórico de estados.
+
+## Autor
+* Murillo Eduardo da Silva Teixeira
+
+## Estrutura do Repositório
+* `/docs`: Contém o Relatório da Etapa 1 em PDF e o ficheiro-fonte do diagrama (MER).
+* `/sql`: Contém os guiões de implementação física organizados em ordem de execução (`01_ddl.sql`, `02_carga.sql`, `03_consultas.sql`).o (`01_ddl.sql`, `02_carga.sql`, `03_consultas.sql`).
